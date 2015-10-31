@@ -1,7 +1,7 @@
 #PedestrianSim
 Cellular automaton to simulate pedestrian movement, third group assignment in the course *Mathematische Modellbildung und Simulation komplexer Systeme* in the summer semester of 2015 with Prof. Gerta Köster.
 
-By @benjaminaaron, Daniel, Mati and Lesya.
+By @benjaminaaron, @Xaverl, @Mercorrius and @Lesya91.
 
 ##Usage
 
